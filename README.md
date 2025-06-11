@@ -1,5 +1,5 @@
 ### Hi, I'm Qasim!  
-I'm a software engineer specializing in backend systems and cybersecurity.  
+I'm a software engineer specializing in backend systems.  
 Currently exploring scalable, secure tech solutions.
 
 - Backend: Node.js | Django | Laravel  
